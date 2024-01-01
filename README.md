@@ -8,3 +8,5 @@ Supports two data inputs:
 Powered by HuggingFace LLM with functionality to control temperature and Top-K by users. 
 
 Developed in Google colab (Python and Streamlit). 
+
+<img width="884" alt="image" src="https://github.com/muskankhaneja/Chat_With_Document_Using_Langchain/assets/13074789/f854bb3c-7d8f-4fc1-a657-690d804891c2">
